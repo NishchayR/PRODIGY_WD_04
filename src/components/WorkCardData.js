@@ -20,7 +20,7 @@ const ProjectCardData = [
         imgsrc: data,
         title: "Ecommerce Store",
         text: "Created interactive dashboard to track and analyse ecommerce store sales data. Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualization using Microsoft Power BI.",
-        view: "url.com",
+        view: "https://drive.google.com/file/d/18W3qwiPbZKbGXLhekOnmQTUKxJgkrRcz/view?usp=drive_link",
         source: "https://github.com/NishchayR/Sales_Report_DataAnalytics"
     },
     {
