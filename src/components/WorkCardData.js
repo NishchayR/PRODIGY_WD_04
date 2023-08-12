@@ -36,7 +36,7 @@ const ProjectCardData = [
     {
         imgsrc: pro1,
         title: "Stopwatch",
-        text: "Project 2 description",
+        text: "The 'Stopwatch' React project is a simple and intuitive web application that allows users to track elapsed time with precision. Through a user-friendly interface, it offers functionalities to start, pause, and reset the timer. Built using React, this project showcases fundamental concepts of state management, event handling, and UI updates, making it an ideal learning resource for beginners in web development.",
         view: "https://stopwatch910.netlify.app/",
         source: "https://github.com/NishchayR/PRODIGY_WD_02"
     },
