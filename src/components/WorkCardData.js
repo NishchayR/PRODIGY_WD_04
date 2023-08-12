@@ -35,9 +35,10 @@ const ProjectCardData = [
     },
     {
         imgsrc: pro1,
-        title: "Project - 2",
+        title: "Stopwatch",
         text: "Project 2 description",
-        view: "url.com"
+        view: "https://stopwatch910.netlify.app/",
+        source: "https://github.com/NishchayR/PRODIGY_WD_02"
     },
     {
         imgsrc: pro1,
