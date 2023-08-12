@@ -34,7 +34,7 @@ const Footer = () => {
 </Link>
             <Link Link to="https://github.com/NishchayR" target='_blank'><FaGithub size={25} style={{color: "white", marginRight: "1rem"}}/>
 </Link>
-            <FaTwitter size={30} style={{color: "white", marginRight: "1rem"}} />
+<Link  to="https://twitter.com/RajpalNish2438" target='_blank'><FaTwitter size={30} style={{color: "white", marginRight: "1rem"}} /></Link>
             </div>
         </div>
       </div>

@@ -13,8 +13,8 @@ const ContactContent = () => {
       <p><FaLinkedin size={25} style={{color: "white", marginRight: "1rem"}}/> <Link to="https://www.linkedin.com/in/nishchay-rajpal-8b486b218/" target='_blank'>LinkedIn.com/in/nishchay-rajpal-8b486b218/</Link></p>
             <p><FaMailBulk size={25} style={{color: "white", marginRight: "1rem"}}/>nishchayrajpal8@gmail.com</p>
             <p><FaGithub size={25} style={{color: "white", marginRight: "1rem"}}/><Link to="https://github.com/NishchayR" target='_blank'>GitHub.com/NishchayR</Link></p>
-            <p><FaTwitter size={25} style={{color: "white", marginRight: "1rem"}}/>@RajpalNish2438</p>
-            <p><FaInstagram size={25} style={{color: "white", marginRight: "1rem"}}/>nishchaysrajpal</p>            
+            <p><FaTwitter size={25} style={{color: "white", marginRight: "1rem"}}/><Link to="https://twitter.com/RajpalNish2438" target='_blank'>@RajpalNish2438</Link></p>
+            <p><FaInstagram size={25} style={{color: "white", marginRight: "1rem"}}/><Link to="https://www.instagram.com/nishchaysrajpal/" target='_blank'>nishchaysrajpal</Link></p>            
     </div>
   )
 }
