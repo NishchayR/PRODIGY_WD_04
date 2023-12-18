@@ -8,7 +8,7 @@ const Project = () => {
   return (
     <div>
       <Navbar/>
-      <Heroimg2 heading="PROJECTS." text="Some of my most reacent works."/>
+      <Heroimg2 heading="PROJECTS" text="Some of my most reacent works."/>
       <Work/>
       <Footer/>
     </div>

@@ -28,7 +28,7 @@ const Footer = () => {
         </div>
         <div className="right">
             <h4>About</h4>
-            <p>I am a creative developer committed to crafting exceptional, interactive, and intuitive websites that engage users. I possess strong proficiency in UI design, and features based on user feedback. I am eager to explore technologies and constantly strive to improve my technical competency.</p>
+            <p>Bachelor of Engineering student with a strong passion for software development and data analytics. Proven adaptability to diverse environments and a quick learner of new skills, tools, and technologies. Solid foundation in engineering principles and hands-on experience in programming languages. Eager to contribute to innovative projects, demonstrate technical expertise, and collaborate within dynamic teams. Seeking opportunities to apply and expand knowledge in a challenging and growth-oriented environment.</p>
             <div className="social">
             <Link to="https://www.linkedin.com/in/nishchay-rajpal-8b486b218/" target='_blank'><FaLinkedin size={30} style={{color: "white", marginRight: "1rem"}} />
 </Link>
