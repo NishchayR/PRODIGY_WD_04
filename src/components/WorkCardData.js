@@ -5,6 +5,7 @@ import health from "../assets/health.jpg"
 import portfolio from "../assets/portfolio.jpg"
 import stop from "../assets/stop.jpg"
 import tic from "../assets/tic.jpg"
+import text from "../assets/text.jpg"
 
 
 
@@ -14,7 +15,7 @@ const ProjectCardData = [
         title: "Daily News App",
         text: "Daily News App shows news to the client which updates regularly and it is also categorized into different categories such as Science, Sports, Technology, etc. Daily News App is a single page web application which is developed using React.js and News API.",
         view: "url.com",
-        source: "https://github.com/NishchayR/Daily_News"
+        source: "https://github.com/NishchayR/News_App"
     },
     {
         imgsrc: data,
@@ -49,6 +50,13 @@ const ProjectCardData = [
         text: "The 'Tic Tac Toe Game' React project is a classic recreation of the timeless two-player game. Developed using React, this interactive web application provides a platform for users to engage in strategic battles by taking turns to place Xs and Os on a 3x3 grid",
         view: "https://tic-tac-toe910.netlify.app/",
         source: "https://github.com/NishchayR/PRODIGY_WD_03"
+    },
+    {
+        imgsrc: text,
+        title: "Text Utils",
+        text: "The React-based Text Utils project is a versatile web application designed for efficient text manipulation. It features word and character counting, real-time estimation of reading time in minutes, and seamless conversion between uppercase and lowercase. The inclusion of a dark mode and light mode toggle enhances user experience and customization.",
+        view: "https://textutils910.netlify.app/",
+        source: "https://github.com/NishchayR/TextUtils"
     }
 ];
 
