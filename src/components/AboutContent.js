@@ -7,7 +7,7 @@ import React from 'react'
 
 const AboutContent = () => {
   return (
-    <div className="about">
+     <div className="about">
       <div className="left">
         <h1>Who Am I?</h1>
         <h3>Student</h3>
@@ -22,7 +22,7 @@ const AboutContent = () => {
         <img src={IntroImg} alt="" />
         </div>
       </div>
-    </div>
+     </div>
   )
 }
 

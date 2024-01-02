@@ -1,4 +1,3 @@
-import pro1 from "../assets/intro-bg.jpg"
 import data from "../assets/data.jpg"
 import news from "../assets/news.jpg"
 import health from "../assets/health.jpg"
