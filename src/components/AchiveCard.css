@@ -4,11 +4,11 @@
 }
 
 .proj-container{
-    max-width: 1140px;
+    max-width: 1300px;
     margin: auto;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 40px;
+    grid-gap: 30px;
     padding-bottom: 5rem;
 }
 
