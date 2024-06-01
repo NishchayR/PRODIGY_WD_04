@@ -41,7 +41,7 @@ const Navbar = () => {
             <Link to="/contact">Contact</Link>
         </li>
         <li>
-        <Link to="https://drive.google.com/file/d/1Q9s-zWGzaVGMmDf6CUt_2rE08dB-JSS_/view?usp=drive_link" target="_blank">
+        <Link to="https://drive.google.com/file/d/1dvgXmOjz54lDCkh_MASphk6xtFTz_eYC/view?usp=drive_link" target="_blank">
         <button className="btn-nav btn">Resume</button>
       </Link>
         </li>

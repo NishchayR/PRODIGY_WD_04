@@ -5,6 +5,8 @@ import tb from "../assets/tableau.jpg"
 import pb from "../assets/powerbi.jpg"
 import exp from "../assets/exp.png"
 import tata from "../assets/tata.jpg"
+import excel from "../assets/Excel.png"
+import sql from "../assets/sql.png"
 
 
 
@@ -26,6 +28,18 @@ const ProjectCardData = [
         title: "Web Development Internship @ Prodigy InfoTech",
         text: "",
         view: "https://www.linkedin.com/posts/nishchay-rajpal-8b486b218_webdevelopment-prodigyinfotech-internship-activity-7106158329810366464-CQGN?utm_source=share&utm_medium=member_desktop",
+    },
+    {
+        imgsrc: sql,
+        title: "My SQL Basics",
+        text: "",
+        view: "https://drive.google.com/file/d/1oPF8PydPfPGggx-AwrwZwJtlx4xAOlUu/view?usp=drive_link",
+    },
+    {
+        imgsrc: excel,
+        title: "Excel for Beginners",
+        text: "",
+        view: "https://drive.google.com/file/d/1qH_0wVwr3mvUURVTicQas2MmYZKjyKdA/view?usp=drive_link",
     },
     {
         imgsrc: tb,
